@@ -1,0 +1,12 @@
+div {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+div h1 {
+  color: red;
+}
